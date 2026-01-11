@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-tavily
+langgraph
+chromadb
+pydantic
+python-dotenv
+fpdf2
+markdown
