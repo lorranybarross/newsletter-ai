@@ -18,6 +18,6 @@ Este é um agente inteligente que automatiza a criação de newsletters temátic
 
 1. **Clone o repositório:**
    ```bash
-   git clone <seu-repositorio>
+   git clone https://github.com/lorranybarross/newsletter-ai.git
    cd newsletter-ai
 
